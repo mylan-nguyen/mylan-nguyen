@@ -3,7 +3,7 @@
 Welcome to my profile!
 </p>
 <p align='center'>
-A computer science and business student at Western University based in Toronto, Ontario. Beyond that I am an aspiring software engineer, part-time concert roadie, and full-time food adventurer.
+A computer science and business student at Western University based in Toronto, Ontario. Beyond that, I am an aspiring software engineer, part-time concert roadie, and full-time food adventurer.
 </p>
 <p align='center'>For enquiries, reach out @ mylannguyen482@gmail.com or over on <a href="https://www.linkedin.com/in/mylan-nguyen/">Linkedin</a>.</p>
 
