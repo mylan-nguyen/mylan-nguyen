@@ -20,7 +20,6 @@ A computer science and business student at Western University based in Toronto, 
 
 |T|h|i|n|g|s||I||💗|:|
 | - | - | - | - | - | - | - | - | - | - | - |
-| | | | | | | | | | | | 
 | | | | | | | | |`I`| | |
 | |`W`| | | | | | |`C`| | |
 | |`O`| | | |`B`| | |`E`| | |
@@ -35,9 +34,7 @@ A computer science and business student at Western University based in Toronto, 
 ##
 ## 🎵 Spotify status
 
-<a href="https://mylan-spotify.vercel.app/api/song/?opened">
-  <img src="https://mylan-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
-</a>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g76ton15ztvea4ehyypqpow1o&cover_image=true&theme=default)](https://github.com/mylan-nguyen/spotify-github-profile)
 
 ##
 <h2 align='center'><i>Thanks for stopping by my page!😊</i></h1>
