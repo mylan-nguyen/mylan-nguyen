@@ -20,6 +20,7 @@ A computer science and business student at Western University based in Toronto, 
 
 |T|h|i|n|g|s||I||💗|:|
 | - | - | - | - | - | - | - | - | - | - | - |
+| | | | | | | | | | | | 
 | | | | | | | | |`I`| | |
 | |`W`| | | | | | |`C`| | |
 | |`O`| | | |`B`| | |`E`| | |
@@ -30,7 +31,13 @@ A computer science and business student at Western University based in Toronto, 
 | |`M`| |`O`|`R`|`I`|`G`|`A`|`M`|`I`| |
 | |`E`| |`O`| |`N`| | | | | |
 | |`S`| |`D`| |`G`| | | | | |
-| | | | | | | | | | | | 
 
 ##
-<h2 align='center'><i>Thanks for stopping by my page!</i></h1>
+## 🎵 Spotify status
+
+<a href="https://mylan-spotify.vercel.app/api/song/?opened">
+  <img src="https://mylan-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
+</a>
+
+##
+<h2 align='center'><i>Thanks for stopping by my page!😊</i></h1>
