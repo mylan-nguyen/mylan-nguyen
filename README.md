@@ -31,10 +31,9 @@ A computer science and business student at Western University based in Toronto, 
 | |`E`| |`O`| |`N`| | | | | |
 | |`S`| |`D`| |`G`| | | | | |
 
-##
 ## 🎵 Spotify status
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g76ton15ztvea4ehyypqpow1o&cover_image=true&theme=default)](https://github.com/mylan-nguyen/spotify-github-profile)
 
-##
+
 <h2 align='center'><i>Thanks for stopping by my page!😊</i></h1>
