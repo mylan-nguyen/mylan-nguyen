@@ -16,6 +16,8 @@ A computer science and business student at Western University based in Toronto, 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mylan-nguyen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mylan's GitHub Stats" />
 </a>
 
+##
+
 |T|h|i|n|g|s||I||💗|:|
 | - | - | - | - | - | - | - | - | - | - | - |
 | | | | | | | | |`I`| | |
@@ -23,12 +25,12 @@ A computer science and business student at Western University based in Toronto, 
 | |`O`| | | |`B`| | |`E`| | |
 | |`R`|`N`|`B`|`M`|`U`|`S`|`I`|`C`| | | 
 | |`D`| | | |`I`| | |`R`| | |
-| |`G`| | | |`L`| |`T`| |`E`| |
+| |`G`| | | |`L`| | |`E`| | |
 | |`A`| |`F`| |`D`| |`R`|`A`| | |
 | |`M`| |`O`|`R`|`I`|`G`|`A`|`M`|`I`| |
-| |`E`| |`O`| |`N`| |`V`| | | |
-| |`S`| |`D`| |`G`| |`E`| | | |
-| | | | | | | |`L`| | | |
+| |`E`| |`O`| |`N`| | | | | |
+| |`S`| |`D`| |`G`| | | | | |
+| | | | | | | | | | | |
 
 
 <h2 align='center'><i>Thanks for stopping by my page!</i></h1>
