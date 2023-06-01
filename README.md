@@ -26,7 +26,7 @@ A computer science and business student at Western University based in Toronto, 
 | |`R`|`N`|`B`|`M`|`U`|`S`|`I`|`C`| | | 
 | |`D`| | | |`I`| | |`R`| | |
 | |`G`| | | |`L`| | |`E`| | |
-| |`A`| |`F`| |`D`| |`R`|`A`| | |
+| |`A`| |`F`| |`D`| | |`A`| | |
 | |`M`| |`O`|`R`|`I`|`G`|`A`|`M`|`I`| |
 | |`E`| |`O`| |`N`| | | | | |
 | |`S`| |`D`| |`G`| | | | | |
