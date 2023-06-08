@@ -15,7 +15,7 @@ A computer science and business student at Western University based in Toronto, 
 <a href="https://github.com/mylan-nguyen/mylan-nguyen">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mylan-nguyen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mylan's GitHub Stats" />
 </a>
-
+[![Mylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mylan-nguyen)](https://github.com/mylan-nguyen/github-readme-stats)
 ##
 
 |T|h|i|n|g|s||I||💗|:|
