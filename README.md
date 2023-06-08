@@ -9,13 +9,10 @@ A computer science and business student at Western University based in Toronto, 
 
 ## &#x1f4c8; Some Tech Info
 
-<a href="https://github.com/mylan-nguyen/mylan-nguyen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylan-nguyen&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/mylan-nguyen/mylan-nguyen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mylan-nguyen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mylan's GitHub Stats" />
-</a>
 [![Mylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mylan-nguyen)](https://github.com/mylan-nguyen/github-readme-stats)
+
+| <a href="https://github.com/mylan-nguyen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mylan-nguyen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mylan's github stats" /></a> | <a href="https://github.com/mylan-nguyen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylannguyen&layout=compact&theme=buefy&hide_border=true" /></a> |
+
 ##
 
 |T|h|i|n|g|s||I||💗|:|
