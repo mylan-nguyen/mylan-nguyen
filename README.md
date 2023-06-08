@@ -9,7 +9,7 @@ A computer science and business student at Western University based in Toronto, 
 
 ## &#x1f4c8; Some Tech Info
 
-<a href="https://github.com/mylan-nguyen/myaln-nguyen">
+<a href="https://github.com/mylan-nguyen/mylan-nguyen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylan-nguyen&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/mylan-nguyen/mylan-nguyen">
