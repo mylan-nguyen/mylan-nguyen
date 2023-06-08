@@ -10,8 +10,7 @@ A computer science and business student at Western University based in Toronto, 
 ## &#x1f4c8; Some Tech Info
 
 [![Mylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mylan-nguyen)](https://github.com/mylan-nguyen/github-readme-stats)
-
-| <a href="https://github.com/mylan-nguyen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mylan-nguyen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mylan's github stats" /></a> | <a href="https://github.com/mylan-nguyen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylannguyen&layout=compact&theme=buefy&hide_border=true" /></a> |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mylan-nguyen&layout=compact)
 
 ##
 
